@@ -1,3 +1,8 @@
+# Author - Ankit Sablok, (this code has been written by Bill Howe of University of Washington, I have no rights on this)
+# Email-id - ankitsab@buffalo.edu
+# Institution - University at Buffalo, The State University of New York
+# Course - Introduction To Data Science
+
 import oauth2 as oauth
 import urllib2 as urllib
 
